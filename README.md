@@ -3,3 +3,4 @@
 ## Андреј Трајковски, бр. на индекс 183128
 
 ### Control Flow Graph
+![CFG Image](/CFG.png)
